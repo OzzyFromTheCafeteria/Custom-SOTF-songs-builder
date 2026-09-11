@@ -1,0 +1,3 @@
+StereoToMono:Use_Preset="<Current Settings>"
+SetProject:Rate="48000"
+ExportWav:
