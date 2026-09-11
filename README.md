@@ -2,6 +2,10 @@
 
 A simple tool for replacing **Sons of the Forest** radio music with your own songs.
 
+## Demo
+
+https://github.com/user-attachments/assets/52fcb0b9-db09-47f1-b66f-f25963cfff3e
+
 ## How to use
 
 1. Put your `.wav` music files into:
