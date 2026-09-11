@@ -31,11 +31,6 @@ https://github.com/user-attachments/assets/52fcb0b9-db09-47f1-b66f-f25963cfff3e
    ```
    release\SOTF_Custom_Music_Builder.exe
    ```
-   or the shortcut in
-   ```
-   customSotfSongBuilder\
-   ```
-
 5. The builder will automatically:
 
    * Find your Sons of the Forest installation
