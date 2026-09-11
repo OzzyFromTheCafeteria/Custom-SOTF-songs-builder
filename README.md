@@ -20,7 +20,13 @@ https://github.com/user-attachments/assets/52fcb0b9-db09-47f1-b66f-f25963cfff3e
    * **Mono**
    * **16-bit PCM WAV**
 
-3. Run:
+   or import
+   ```
+   prepare.for.SOTF.txt
+   ```
+   as macro in Audacity to quickly and easily convert 1 or many sound files to .wav and add correct formatting
+
+4. Run:
 
    ```
    release\SOTF_Custom_Music_Builder.exe
