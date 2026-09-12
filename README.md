@@ -54,7 +54,7 @@ Edit this file if you want to change which vanilla songs are replaced.
 
 ## Notes
 
-* Currently only works with Steam
+* Currently only works with Steam on Windows.
 * Your original `.wav` files in `input\` are not modified.
 * If you have fewer songs than replacement slots, the songs will automatically cycle through the slots.
 * **Back up your game files if you want an easy way to restore the original music.**
