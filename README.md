@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/52fcb0b9-db09-47f1-b66f-f25963cfff3e
 5. The builder will automatically:
 
    * Find your Sons of the Forest installation
-   * Back up/copy the required music banks
+   * Copy the required music banks
    * Extract the banks
    * Replace the configured music slots with your songs
    * Rebuild the banks
