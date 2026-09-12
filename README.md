@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/52fcb0b9-db09-47f1-b66f-f25963cfff3e
 
    or import
    ```
-   prepare.for.SOTF.txt
+   prepare for SOTF.txt
    ```
    as macro in Audacity to quickly and easily convert 1 or many sound files to .wav and add correct formatting
 
